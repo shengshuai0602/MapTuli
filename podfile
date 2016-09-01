@@ -1,0 +1,5 @@
+platform :ios, '7.0'
+target "LegendView" do
+pod 'Masonry', '~> 1.0.1‘
+pod 'SDAutoLayout', '~> 2.1.2'
+end
